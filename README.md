@@ -1,2 +1,1 @@
-# hotel_management
-.py
+# hotel_management.py
